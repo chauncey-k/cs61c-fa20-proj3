@@ -28,8 +28,7 @@
       <a name="width" val="8"/>
     </tool>
     <tool name="Bit Extender">
-      <a name="in_width" val="32"/>
-      <a name="out_width" val="8"/>
+      <a name="type" val="zero"/>
     </tool>
   </lib>
   <lib desc="#Gates" name="1">
@@ -141,7 +140,7 @@
       <a name="valign" val="base"/>
     </tool>
   </lib>
-  <lib desc="file#../../../harnesses/test_harness.circ" name="7"/>
+  <lib desc="file#/home/a/Desktop/fa20-lab-starter/fa20-proj3-starter/harnesses/test_harness.circ" name="7"/>
   <main name="run_main"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
